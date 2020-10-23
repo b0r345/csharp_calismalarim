@@ -2,13 +2,12 @@ function sayiUret(){
     return Math.ceil(Math.random() *49)
 }
 
-sayiUret()
-var sayi1=Math.ceil(Math.random()*49)
-var sayi2=Math.ceil(Math.random()*49)
-var sayi3=Math.ceil(Math.random()*49)
-var sayi4=Math.ceil(Math.random()*49)
-var sayi5=Math.ceil(Math.random()*49)
-var sayi6=Math.ceil(Math.random()*49)
+var sayi1=sayiUret()
+var sayi2=sayiUret()
+var sayi3=sayiUret()
+var sayi4=sayiUret()
+var sayi5=sayiUret()
+var sayi6=sayiUret()
 //her yerde değişiklik yapmak istediğimiz için fonksiyonlar bu konuda bize yardımcı oluyor
 
 
