@@ -6,7 +6,7 @@ class Ev
 }
 
 
-class Uygulama
+class Oop1
 {
     static public void Main(string[] args)
     {
