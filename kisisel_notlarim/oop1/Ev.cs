@@ -2,11 +2,11 @@
 class Ev
 {
     public int kapiNo;
-    public string sokakAdi;
+    public  string sokakAdi;
 }
 
 
-class Oop1
+class Uygulama
 {
     static public void Main(string[] args)
     {

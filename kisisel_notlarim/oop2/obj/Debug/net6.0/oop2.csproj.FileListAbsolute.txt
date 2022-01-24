@@ -1,0 +1,14 @@
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.AssemblyInfoInputs.cache
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.AssemblyInfo.cs
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.csproj.CoreCompileInputs.cache
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\oop2.exe
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\oop2.deps.json
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\oop2.runtimeconfig.json
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\oop2.dll
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\ref\oop2.dll
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\bin\Debug\net6.0\oop2.pdb
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.dll
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\ref\oop2.dll
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.pdb
+C:\Users\stlab-ogretmen\Desktop\csharp_calismalarim\kisisel_notlarim\oop2\obj\Debug\net6.0\oop2.genruntimeconfig.cache
